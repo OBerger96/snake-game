@@ -8,7 +8,7 @@ The snake moves by the UP, DOWN, RIGHT, LEFT keys.
 ![screenshot](https://github.com/OBerger96/snake-game/blob/master/images/snake1.jpg)
 
 ## Getting Started
-Copy he project on your local java project:
+Copy the project on your local java project:
 Clone with SSH 
 ```
 git@github.com:OBerger96/snake-game.git
