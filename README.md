@@ -1,4 +1,4 @@
-# snake-game
+# My Snake game
 Build a Snake game, using JavaFX, where human players can play and try to break records of themselves.
 Each time the snake eats fruit, its speed increases.
 The snake moves by the UP, DOWN, RIGHT, LEFT keys.
