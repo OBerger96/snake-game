@@ -19,6 +19,8 @@ https://github.com/OBerger96/snake-game.git
 ```
 ## To Run the project
 Run (F11) from the java project.
+Or download the application directory and edit with notepad++ context of run.bat and change to jar's directory, after that click on the run.bat file and play!
+
 
 ## Author
 * **Omer Berger** - [snake-game](https://github.com/OBerger96/snake-game)
